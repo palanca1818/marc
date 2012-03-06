@@ -9,5 +9,11 @@ TOC - http://www.unicode.org/charts/
 - **Emoticons:** 1F600–1F64F http://www.unicode.org/charts/PDF/U1F600.pdf
 - **Miscellaneous Symbols and Pictographs:** 1F300–1F5FF http://www.unicode.org/charts/PDF/U1F300.pdf
 - **Transport and Map Symbols:** 1F680–1F6FF http://www.unicode.org/charts/PDF/U1F680.pdf
+- **Arrows:** 2190–21FF http://www.unicode.org/charts/PDF/U2190.pdf
+- **Supplemental Arrows-A:** 27F0–27FF http://www.unicode.org/charts/PDF/U27F0.pdf
+- **Supplemental Arrows-B:** 2900–297F http://www.unicode.org/charts/PDF/U2900.pdf
+- **Miscellaneous Symbols and Arrows:** 2B00–2BFF http://www.unicode.org/charts/PDF/U2B00.pdf
 
 Emoji http://www.unicode.org/Public/6.1.0/ucd/StandardizedVariants.html
+
+Fast lookup http://inamidst.com/stuff/unidata/ (your local font can miss some symbols)
