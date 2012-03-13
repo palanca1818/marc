@@ -3,6 +3,7 @@ Memo to futher improve mapping
 
 TOC - http://www.unicode.org/charts/
 
+- **Miscellaneous Technical** 2300–23FF http://www.unicode.org/charts/PDF/U2300.pdf
 - **Dingbats:** 2700-27FF http://www.unicode.org/charts/PDF/U2700.pdf
 - **Chess, Checkers/Draughts:** 2600–26FF http://www.unicode.org/charts/PDF/U2600.pdf
 - **Miscellaneous Symbols and Arrows:** 2B00–2BFF http://www.unicode.org/charts/PDF/U2B00.pdf
