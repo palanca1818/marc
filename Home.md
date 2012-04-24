@@ -18,3 +18,8 @@ TOC - http://www.unicode.org/charts/
 Emoji http://www.unicode.org/Public/6.1.0/ucd/StandardizedVariants.html
 
 Fast lookup http://inamidst.com/stuff/unidata/ (your local font can miss some symbols)
+
+More vector sources
+-------------------
+
+1. Logos http://www.alexpeattie.com/projects/justvector_icons/
