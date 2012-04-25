@@ -23,3 +23,4 @@ More vector sources
 -------------------
 
 1. Logos http://www.alexpeattie.com/projects/justvector_icons/
+2. POI symbols https://github.com/mapbox/maki
