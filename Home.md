@@ -9,4 +9,6 @@ More vector sources
 3. Climatic icons http://www.adamwhitcroft.com/climacons/
 4. Modern Pictograms http://www.fontsquirrel.com/fonts/modern-pictograms (small, but someone asked)
 5. Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
-4. ? Github Octicons font: https://github.com/styleguide/css/7.0
+6. Raphael icons set http://icons.marekventur.de/
+7. Zurb https://github.com/zurb/foundation-icons
+8. Typicons http://typicons.com/
