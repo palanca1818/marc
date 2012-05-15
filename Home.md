@@ -12,3 +12,4 @@ More vector sources
 6. Raphael icons set http://icons.marekventur.de/
 7. Zurb https://github.com/zurb/foundation-icons
 8. Typicons http://typicons.com/
+9. Zocial https://github.com/samcollins/css-social-buttons
