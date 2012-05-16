@@ -1,22 +1,24 @@
-Please, note, that we are NOT designers, and can't do artworks. Fontello is our pet project, used to check [nodeca](https://github.com/nodeca/)'s new technologies & components. But we know, that designers like fontello. So, if you wish to improve it, there are several ways.
+Please, note, that we are programmers, and can't do artworks. Fontello is our pet project, used to check [nodeca](https://github.com/nodeca/)'s new technologies & components. But we know, that designers like fontello. So, if you wish to improve it, there are several ways.
+
 
 Donate us some of your icons
 ----------------------------
 
-That's the best way to help :)
-
-- It can be difficult to make big collection, but quite easy to draw a couple of images.
-- We will care about font generation.
-- That's an easy way to participate, if you like opensource development process
+- That's an easy way to participate in our opensource development process.
+- Making a couple of images will not take too much of your time, and will help
+  to increase a number of high quality icons, shared for everybody.
+- We will care about font generation, and don't bother you about technical details.
 
 The only strict requirement is sharing your work under cc-by / cc0 or similar licence.
 
 If you like to share a big icons collection under separate namespace (like Font Awesome, Entypo, Iconic and others) - it's possible too.
 
+
 Help to improve fontello interface
 ----------------------------------
 
-As you can see, we use twitter bootstrap styles. That does not affect quality of generated fonts :) . But if you feel, that you can add some beauty here, that would be interesting.
+As you can see, we use twitter bootstrap styles. And that does not affect quality of generated fonts :) . But if you feel, that you can add some beauty or usability here, that would be interesting.
+
 
 Contacts
 --------
