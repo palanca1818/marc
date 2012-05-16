@@ -1,8 +1,8 @@
 Please, note, that we are programmers, and can't do artworks. Fontello is our pet project, used to check [nodeca](https://github.com/nodeca/)'s new technologies & components. But we know, that designers like fontello. So, if you wish to improve it, there are several ways.
 
 
-Donate us some of your icons
-----------------------------
+Share some of your icons
+------------------------
 
 - That's an easy way to participate in our opensource development process.
 - Making a couple of images will not take too much of your time, and will help
