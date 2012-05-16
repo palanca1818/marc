@@ -17,7 +17,7 @@ If you like to share a big icons collection under separate namespace (like Font 
 Help to improve fontello interface
 ----------------------------------
 
-As you can see, we use twitter bootstrap styles. And that does not affect quality of generated fonts :) . But if you feel, that you can add some beauty or usability here, that would be interesting.
+As you can see, we use twitter bootstrap styles. And that does not affect quality of generated fonts :) . But if you feel, that you can add some beauty or usability here, that would be highly appreciated.
 
 
 Contacts
