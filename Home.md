@@ -4,12 +4,14 @@
 More vector sources
 -------------------
 
-1. Logos http://www.alexpeattie.com/projects/justvector_icons/
-2. POI symbols https://github.com/mapbox/maki
-3. Climatic icons http://www.adamwhitcroft.com/climacons/
-4. Modern Pictograms http://www.fontsquirrel.com/fonts/modern-pictograms (small, but someone asked)
-5. Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
-6. Raphael icons set http://icons.marekventur.de/
-7. Zurb https://github.com/zurb/foundation-icons
-8. Typicons http://typicons.com/
-9. Zocial https://github.com/samcollins/css-social-buttons
+* Zocial https://github.com/samcollins/css-social-buttons
+* Logos http://www.alexpeattie.com/projects/justvector_icons/
+* POI symbols https://github.com/mapbox/maki
+* Climatic icons http://www.adamwhitcroft.com/climacons/
+* Meteocons http://www.alessioatzeni.com/meteocons/
+* Modern Pictograms http://www.fontsquirrel.com/fonts/modern-pictograms (small, but someone asked)
+* Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
+* Raphael icons set http://icons.marekventur.de/
+* Zurb https://github.com/zurb/foundation-icons
+* Typicons http://typicons.com/
+* Zocial https://github.com/samcollins/css-social-buttons
