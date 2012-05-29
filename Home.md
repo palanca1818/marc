@@ -15,3 +15,8 @@ More vector sources
 * Zurb https://github.com/zurb/foundation-icons
 * Typicons http://typicons.com/
 * IconFont http://ux.etao.com/iconfont/
+
+Unclear (check later)
+
+* http://www.iconbolt.com/
+* http://www.pyconic.com/
