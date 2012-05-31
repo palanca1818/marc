@@ -13,10 +13,13 @@ More vector sources
 * Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
 * Raphael icons set http://icons.marekventur.de/
 * Zurb https://github.com/zurb/foundation-icons
-* Typicons http://typicons.com/
-* IconFont http://ux.etao.com/iconfont/
-* OpenWeb Icons http://pfefferle.github.com/openwebicons/
-* PulsarJS http://xperiments.es/blog/en/free-pulsarjs-fontface-iconfont/
+* Typicons: http://typicons.com/
+* IconFont: http://ux.etao.com/iconfont/
+* OpenWeb: Icons http://pfefferle.github.com/openwebicons/
+* PulsarJS: http://xperiments.es/blog/en/free-pulsarjs-fontface-iconfont/
+* Jigsoar icons: http://www.jigsoaricons.com/
+* Gcons: http://www.greepit.com/open-source-icons-gcons/ (license?)
+
 
 Unclear (check later)
 
