@@ -15,6 +15,8 @@ More vector sources
 * Zurb https://github.com/zurb/foundation-icons
 * Typicons http://typicons.com/
 * IconFont http://ux.etao.com/iconfont/
+* OpenWeb Icons http://pfefferle.github.com/openwebicons/
+* PulsarJS http://xperiments.es/blog/en/free-pulsarjs-fontface-iconfont/
 
 Unclear (check later)
 
