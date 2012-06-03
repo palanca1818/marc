@@ -24,3 +24,4 @@ Unclear (check later)
 
 * http://www.iconbolt.com/
 * http://www.pyconic.com/
+* http://www.smashingmagazine.com/2011/12/29/freebie-free-vector-web-icons-91-icons/ (license?)
