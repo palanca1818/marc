@@ -17,6 +17,7 @@ More vector sources
 * PulsarJS: http://xperiments.es/blog/en/free-pulsarjs-fontface-iconfont/
 * Jigsoar icons: http://www.jigsoaricons.com/
 * Gcons: http://www.greepit.com/open-source-icons-gcons/ (license?)
+* Retro: http://yourneighbours.de/web-design/free-retro-icon-set/
 
 
 Unclear (check later)
