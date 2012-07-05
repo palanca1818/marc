@@ -23,7 +23,6 @@ More vector sources
 Unclear (check later)
 
 * http://www.iconbolt.com/
-* http://www.pyconic.com/
 * http://www.smashingmagazine.com/2011/12/29/freebie-free-vector-web-icons-91-icons/ (license?)
 * http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/
