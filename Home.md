@@ -18,12 +18,11 @@ More vector sources
 * Jigsoar icons: http://www.jigsoaricons.com/
 * Gcons: http://www.greepit.com/open-source-icons-gcons/ (license?)
 * Retro: http://yourneighbours.de/web-design/free-retro-icon-set/
-
+* Broccolidry: http://dribbble.com/shots/587469-Free-16px-Broccolidryiconsaniconsetitisfullof-icons
+* SmashMag Freebie http://www.smashingmagazine.com/2011/12/29/freebie-free-vector-web-icons-91-icons/ ([clarified](http://www.smashingmagazine.com/2012/06/18/freebie-academic-icon-set-10-png-psd-icons/#more-130442) licence as CC BY)
 
 Unclear (check later)
 
-* http://www.iconbolt.com/
-* http://www.smashingmagazine.com/2011/12/29/freebie-free-vector-web-icons-91-icons/ (license?)
 * http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/
 * MimiGlyphs: http://salleedesign.com/resources/mimi-glyphs/ (license?)
