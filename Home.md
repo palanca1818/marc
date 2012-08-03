@@ -31,3 +31,7 @@ Unclear (check later)
 * MimiGlyphs: http://salleedesign.com/resources/mimi-glyphs/ (license?)
 * Cuticons: http://dribbble.com/shots/631056-Cuticons-You-wanted-free-icons-right
 * Icon Minia: http://dribbble.com/shots/598215-Icon-Minia-139-Vector-Icons (GPL)
+
+Other:
+
+* search with good response http://www.freepik.com/free-vectors/icons
