@@ -22,6 +22,7 @@ More vector sources
 * SmashMag Freebie http://www.smashingmagazine.com/2011/12/29/freebie-free-vector-web-icons-91-icons/ ([clarified](http://www.smashingmagazine.com/2012/06/18/freebie-academic-icon-set-10-png-psd-icons/#more-130442) licence as CC BY)
 * Windows Icons: https://github.com/Templarian/WindowsIcons
 * WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
+* Application icon set: http://tympanus.net/codrops/2012/10/02/freebie-application-icon-set-png-psd-csh/ (mandatory linking?)
 
 
 Unclear (check later)
