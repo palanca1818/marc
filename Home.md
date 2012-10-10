@@ -4,7 +4,6 @@
 More vector sources
 -------------------
 
-* Pictonic https://pictonic.co/free
 * Zocial https://github.com/samcollins/css-social-buttons
 * Logos http://www.alexpeattie.com/projects/justvector_icons/
 * POI symbols https://github.com/mapbox/maki
