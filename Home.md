@@ -4,6 +4,8 @@
 More vector sources
 -------------------
 
+All this collections are distributed under CC-like licenses, without strong attribution requirements (not needed or link on "about" page is enougth). Please, DON'T put here icons, which require linking on visible place and so on - those will not be accepted to fontello. If you are not sure about license - queue your link to "unknown" list at the end of page.
+
 * Zocial https://github.com/samcollins/css-social-buttons
 * Logos http://www.alexpeattie.com/projects/justvector_icons/
 * POI symbols https://github.com/mapbox/maki
