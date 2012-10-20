@@ -25,6 +25,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Windows Icons: https://github.com/Templarian/WindowsIcons
 * WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * Modern Minimal: http://modern.squintongreen.com/
+* Ligature Symbols: http://kudakurage.com/ligature_symbols/
 
 Unclear (check later)
 
