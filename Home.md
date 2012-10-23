@@ -26,6 +26,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * Modern Minimal: http://modern.squintongreen.com/
 * Ligature Symbols: http://kudakurage.com/ligature_symbols/
+* 105 loops: http://dribbble.com/shots/707117-105-Loops-with-PSD
 
 Unclear (check later)
 
