@@ -9,8 +9,6 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Zocial https://github.com/samcollins/css-social-buttons
 * Logos http://www.alexpeattie.com/projects/justvector_icons/
 * POI symbols https://github.com/mapbox/maki
-* Climatic icons http://www.adamwhitcroft.com/climacons/
-* Meteocons http://www.alessioatzeni.com/meteocons/
 * Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
 * Raphael icons set http://icons.marekventur.de/
 * Zurb https://github.com/zurb/foundation-icons
@@ -40,3 +38,7 @@ Unclear (check later)
 Other:
 
 * search with good response http://www.freepik.com/free-vectors/icons
+
+Postponed (duplicates, not for small sizes, and other)
+
+* Climatic icons http://www.adamwhitcroft.com/climacons/
