@@ -6,9 +6,9 @@ More vector sources
 
 All this collections are distributed under CC-like licenses, without strong attribution requirements (not needed or link on "about" page is enougth). Please, DON'T put here icons, which require linking on visible place and so on - those will not be accepted to fontello. If you are not sure about license - queue your link to "unknown" list at the end of page.
 
-* Zocial https://github.com/samcollins/css-social-buttons
-* Logos http://www.alexpeattie.com/projects/justvector_icons/
 * POI symbols https://github.com/mapbox/maki
+* Ligature Symbols: http://kudakurage.com/ligature_symbols/
+* WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
 * Raphael icons set http://icons.marekventur.de/
 * Zurb https://github.com/zurb/foundation-icons
@@ -21,9 +21,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Broccolidry: http://dribbble.com/shots/587469-Free-16px-Broccolidryiconsaniconsetitisfullof-icons ([custom](http://licence.visualidiot.com/) licence)
 * SmashMag Freebie http://www.smashingmagazine.com/2011/12/29/freebie-free-vector-web-icons-91-icons/ ([clarified](http://www.smashingmagazine.com/2012/06/18/freebie-academic-icon-set-10-png-psd-icons/#more-130442) licence as CC BY)
 * Windows Icons: https://github.com/Templarian/WindowsIcons
-* WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * Modern Minimal: http://modern.squintongreen.com/
-* Ligature Symbols: http://kudakurage.com/ligature_symbols/
 * 105 loops: http://dribbble.com/shots/707117-105-Loops-with-PSD
 
 Unclear (check later)
