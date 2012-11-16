@@ -6,7 +6,6 @@ More vector sources
 
 All this collections are distributed under CC-like licenses, without strong attribution requirements (not needed or link on "about" page is enougth). Please, DON'T put here icons, which require linking on visible place and so on - those will not be accepted to fontello. If you are not sure about license - queue your link to "unknown" list at the end of page.
 
-* Ligature Symbols: http://kudakurage.com/ligature_symbols/
 * WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
 * Raphael icons set http://icons.marekventur.de/
@@ -39,3 +38,4 @@ Other:
 Postponed (duplicates, not for small sizes, and other)
 
 * Climatic icons http://www.adamwhitcroft.com/climacons/
+* Ligature Symbols: http://kudakurage.com/ligature_symbols/
