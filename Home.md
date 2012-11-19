@@ -7,6 +7,7 @@ More vector sources
 All this collections are distributed under CC-like licenses, without strong attribution requirements (not needed or link on "about" page is enougth). Please, DON'T put here icons, which require linking on visible place and so on - those will not be accepted to fontello. If you are not sure about license - queue your link to "unknown" list at the end of page.
 
 * WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
+* Chunky Pika Icon Set: http://www.smashingmagazine.com/2012/11/11/dutch-icon-set-smashing-edition/
 * Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
 * Raphael icons set http://icons.marekventur.de/
 * Zurb https://github.com/zurb/foundation-icons
@@ -21,6 +22,8 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Windows Icons: https://github.com/Templarian/WindowsIcons
 * Modern Minimal: http://modern.squintongreen.com/
 * 105 loops: http://dribbble.com/shots/707117-105-Loops-with-PSD
+* http://dribbble.com/shots/793795-My-First-Freebie
+* http://dribbble.com/shots/814118-Icons-v-2-Free-download
 
 Unclear (check later)
 
