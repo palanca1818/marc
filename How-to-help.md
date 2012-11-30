@@ -1,23 +1,23 @@
 Please, note, that we are programmers, and can't do artworks. Fontello is our pet project, used to check [nodeca](https://github.com/nodeca/)'s new technologies & components. But we know, that designers like fontello. So, if you wish to improve it, there are several ways.
 
 
-Share some of your icons
-------------------------
+Share icons to fontelico collection
+------------------------------------
 
-- That's an easy way to participate in our opensource development process.
-- Making a couple of images will not take too much of your time, and will help
-  to increase a number of high quality icons, shared for everybody.
-- We will care about font generation, and don't bother you about technical details.
+- https://github.com/fontello/fontelico.font
+- Just send us your image as 1000x1000 SVG, and confirm, that you agree to share it under CC BY
 
-The only strict requirement is sharing your work under cc-by / cc0 or similar licence.
 
-If you like to share a big icons collection under separate namespace (like Font Awesome, Entypo, Iconic and others) - it's possible too.
+Share icons as separate font
+----------------------------
+
+If you have a lot of icons, and wish to share those under one of CC licences - contact us with request to create a separate collection for you.
 
 
 Help to improve fontello interface
 ----------------------------------
 
-As you can see, we use twitter bootstrap styles. And that does not affect quality of generated fonts :) . But if you feel, that you can add some beauty or usability here, that would be highly appreciated.
+If you have ideas, what can be improved, to increase your productivity with fontello - let us know.
 
 
 Contacts
