@@ -28,6 +28,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 
 Unclear (check later)
 
+* Handy Icons http://wegraphics.net/downloads/handy-icons-webfont-kit/
 * http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/
 * MimiGlyphs: http://salleedesign.com/resources/mimi-glyphs/ (license?)
 * Cuticons: http://dribbble.com/shots/631056-Cuticons-You-wanted-free-icons-right
