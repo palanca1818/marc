@@ -6,7 +6,7 @@ More vector sources
 
 All this collections are distributed under CC-like licenses, without strong attribution requirements (not needed or link on "about" page is enougth). Please, DON'T put here icons, which require linking on visible place and so on - those will not be accepted to fontello. If you are not sure about license - queue your link to "unknown" list at the end of page.
 
-* http://iconify.it/
+* Iconify.it http://iconify.it/
 * WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * Batch: https://github.com/AdamWhitcroft/Batch
 * Chunky Pika Icon Set: http://www.smashingmagazine.com/2012/11/11/dutch-icon-set-smashing-edition/
@@ -26,6 +26,9 @@ All this collections are distributed under CC-like licenses, without strong attr
 * 105 loops: http://dribbble.com/shots/707117-105-Loops-with-PSD
 * http://dribbble.com/shots/793795-My-First-Freebie
 * http://dribbble.com/shots/814118-Icons-v-2-Free-download
+* Climatic icons http://www.adamwhitcroft.com/climacons/
+* Eco Ico http://dribbble.com/shots/665585-Eco-Ico
+
 
 Unclear (check later)
 
@@ -37,11 +40,19 @@ Unclear (check later)
 * Sosa http://www.tenbytwenty.com/sosa.php
 * Application icon set: http://tympanus.net/codrops/2012/10/02/freebie-application-icon-set-png-psd-csh/ (mandatory linking?)
 
+
+Recommend later, when importer ready:
+
+* http://iconify.it/ - CC BY (no mandatory attribution, free)
+* http://iconmonstr.com/ - custom license, not redistributable, but ok to import (no mandatory attribution, free)
+
+
 Other:
 
 * search with good response http://www.freepik.com/free-vectors/icons
+* http://css-tricks.com/flat-icons-icon-fonts/ - renewed collection of SVG images/fonts (all licences, both payed and free)
+
 
 Postponed (duplicates, not for small sizes, and other)
 
-* Climatic icons http://www.adamwhitcroft.com/climacons/
 * Ligature Symbols: http://kudakurage.com/ligature_symbols/
