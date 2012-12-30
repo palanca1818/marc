@@ -51,7 +51,7 @@ Other:
 
 * search with good response http://www.freepik.com/free-vectors/icons
 * http://css-tricks.com/flat-icons-icon-fonts/ - renewed collection of SVG images/fonts (all licences, both payed and free)
-
+* "the most comprehensive index of free icon fonts/iconic web fonts" http://www.functionn.in/2012/11/the-best-free-iconic-web-fonts.html
 
 Postponed (duplicates, not for small sizes, and other)
 
