@@ -29,6 +29,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * http://dribbble.com/shots/814118-Icons-v-2-Free-download
 * Climatic icons http://www.adamwhitcroft.com/climacons/
 * Eco Ico http://dribbble.com/shots/665585-Eco-Ico
+* Breeze http://breezi.com/blog/free-minimalist-icon-set/
 
 
 Unclear (check later)
