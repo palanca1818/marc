@@ -46,8 +46,9 @@ Unclear (check later)
 
 Recommend later, when importer ready:
 
-* http://iconify.it/ - CC BY (no mandatory attribution, free)
+* http://iconify.it/ - CC BY (no mandatory attribution)
 * http://iconmonstr.com/ - custom license, not redistributable, but ok to import (no mandatory attribution, free)
+* http://game-icons.net/ - CC BY
 
 
 Other:
