@@ -6,10 +6,8 @@ More vector sources
 
 All this collections are distributed under CC-like licenses, without strong attribution requirements (not needed or link on "about" page is enougth). Please, DON'T put here icons, which require linking on visible place and so on - those will not be accepted to fontello. If you are not sure about license - queue your link to "unknown" list at the end of page.
 
-* Elusive https://github.com/aristath/elusive-iconfont
 * Iconify.it http://iconify.it/
 * Victor Erixon icons http://dribbble.com/shots/928458-80-Shades-of-White-Icons
-* Linecons: http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/
 * WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * Batch: https://github.com/AdamWhitcroft/Batch
 * Chunky Pika Icon Set: http://www.smashingmagazine.com/2012/11/11/dutch-icon-set-smashing-edition/
