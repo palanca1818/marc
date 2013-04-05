@@ -6,6 +6,7 @@ More vector sources
 
 All this collections are distributed under CC-like licenses, without strong attribution requirements (not needed or link on "about" page is enougth). Please, DON'T put here icons, which require linking on visible place and so on - those will not be accepted to fontello. If you are not sure about license - queue your link to "unknown" list at the end of page.
 
+* Metrize Icons: http://www.alessioatzeni.com/metrize-icons/
 * Web Symbols Liga http://www.justbenice.ru/studio/websymbolsliga/ (clarify license)
 * WebHostingHub Glyphs http://www.webhostinghub.com/glyphs/
 * Iconify.it http://iconify.it/
