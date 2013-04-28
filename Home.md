@@ -1,5 +1,6 @@
 * [[Glyph codes]]
 * [[How to help]]
+* [[Tips]]
 
 More vector sources
 -------------------
