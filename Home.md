@@ -35,6 +35,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Eco Ico http://dribbble.com/shots/665585-Eco-Ico
 * Breeze http://breezi.com/blog/free-minimalist-icon-set/
 * Iconic https://github.com/somerandomdude/Iconic (Fonts SIL, Icons CC BY-SA)
+* Washicons http://lucijanblagonic.github.io/Washicons/
 
 
 Unclear (check later)
