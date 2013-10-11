@@ -53,8 +53,6 @@ Unclear (check later)
 
 Recommend later, when importer ready:
 
-* http://iconify.it/ - CC BY (no mandatory attribution)
-* http://iconmonstr.com/ - custom license, not redistributable, but ok to import (no mandatory attribution, free)
 * http://game-icons.net/ - CC BY
 
 
@@ -62,7 +60,4 @@ Other:
 
 * search with good response http://www.freepik.com/free-vectors/icons
 * http://css-tricks.com/flat-icons-icon-fonts/ - renewed collection of SVG images/fonts (all licences, both payed and free)
-
-Postponed (duplicates, not for small sizes, and other)
-
-* Ligature Symbols: http://kudakurage.com/ligature_symbols/
+* http://iconify.info/ - icon collections links 
