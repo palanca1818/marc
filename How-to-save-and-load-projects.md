@@ -28,12 +28,19 @@ That's all! Interested? Read below, how to do it for your project.
 
 Well, we expect, that you listened our advice about storing your whole projects on github. Now a couple of ways to tune it for import-export
 
-### Lazy way - use fontello-cli
+
+### node.js way - use fontello-cli (recommended for non-programmers)
 
 1. Do you already have `node.js`? If not - [install it](http://nodejs.org/)
 2. Install `fontello-cli` utility with `npm install fontello`
 
 TBD.
+
+
+### ruby way - use fontello_rails_converter gem
+
+https://github.com/railslove/fontello_rails_converter
+
 
 ### Geek way - use Makefile
 
