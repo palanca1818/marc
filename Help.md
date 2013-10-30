@@ -1,4 +1,8 @@
 * [[Introduction]]
 * [[Tutorial]]
 * [[How to save and load projects]]
+* [[How to use custom images]]
+* [[Why so many CSS files in archive?]]
 * [[Advanced font settings]]
+* [[How to create/suggest my own font]]
+* [[Problems checklist]]
