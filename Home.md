@@ -1,3 +1,4 @@
+* [[Help]]
 * [[Glyph codes]]
 * [[How to help]]
 * [[Tips]]
