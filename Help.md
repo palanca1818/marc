@@ -3,6 +3,7 @@
 * [[How to save and load projects]]
 * [[How to use custom images]]
 * [[Why so many CSS files in archive?]]
+* [[What about license?]]
 * [[Advanced font settings]]
 * [[How to setup server to serve fonts]]
 * [[How to create/suggest my own font]]
