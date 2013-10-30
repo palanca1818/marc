@@ -39,7 +39,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Washicons http://lucijanblagonic.github.io/Washicons/
 * Map Icons http://map-icons.com/
 * Dispicons http://demo.amitjakhu.com/dripicons/
-
+* Ionicon http://ionicons.com/ (MIT)
 
 Unclear (check later)
 
