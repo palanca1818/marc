@@ -38,6 +38,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Iconic https://github.com/somerandomdude/Iconic (Fonts SIL, Icons CC BY-SA)
 * Washicons http://lucijanblagonic.github.io/Washicons/
 * Map Icons http://map-icons.com/
+* Dispicons http://demo.amitjakhu.com/dripicons/
 
 
 Unclear (check later)
