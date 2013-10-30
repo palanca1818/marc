@@ -7,5 +7,5 @@
 * [[Advanced font settings]]
 * [[How to setup server to serve fonts]]
 * [[How to create/suggest my own font]]
-* [[How to thanks us :)]]
+* [[How to thank us :)]]
 * [[Problems checklist]]
