@@ -4,5 +4,6 @@
 * [[How to use custom images]]
 * [[Why so many CSS files in archive?]]
 * [[Advanced font settings]]
+* [[How to setup server to serve fonts]]
 * [[How to create/suggest my own font]]
 * [[Problems checklist]]
