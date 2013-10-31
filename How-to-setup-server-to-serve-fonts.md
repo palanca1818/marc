@@ -4,10 +4,10 @@ In order to display fonts right, browser must receive font files with correct ht
 
 Probably, your server is already configured, and you don't need to change anything. If not, you need to care about:
 
-1. Correct `mime-type` headers
-2. `CORS` headers - only if you serve fonts files & html pages from different domains
+1. Correct mime-type headers
+2. [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) headers - only if you serve fonts files & html pages from different domains
 
-(*) If you can't set CORS headers, you can embed font files directly into CSS. Template already exists in fontello archive.
+(*) If you can't set CORS headers, you can embed font files directly into CSS. Appropriate CSS file already exists in fontello archive.
 
 
 ## Apache
@@ -22,6 +22,13 @@ AddType application/font-woff            .woff
 
 If you can't edit config, create `.htaccess` file in folder with your project and add lines there.
 
+For CORS headers add:
+
+```
+<FilesMatch ".(eot|ttf|otf|woff)">
+  Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+```
 
 ## nginx
 
@@ -34,4 +41,12 @@ By default nginx has no default mime types for fonts, and wrong mimy type for `.
 application/vnd.ms-fontobject    eot;
 application/x-font-ttf           ttf;
 application/font-woff            woff;
+```
+
+For CORS headers, add something like this to your vhost config
+
+```
+location ~* \.(eot|ttf|woff)$ {
+    add_header Access-Control-Allow-Origin *;
+}
 ```
