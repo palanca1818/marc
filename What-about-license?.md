@@ -1,6 +1,6 @@
 [back to help index](Help)
 
-1. All licences are defined by original fonts authors. Fontello don't add any additional requirements. License type is shown on the right from font name.
+1. All licenses are defined by original fonts authors. Fontello don't add any additional requirements. License type is shown on the right from font name.
 2. Fontello includes only those fonts, that do NOT have limits for your websites (non commercial use, mandatory links, mandatory attribution and so on). Since we are opensource developpers, we don't wish to restrict your freedom.
 
 You can just use fonts on your website and be happy, _but it's considered a good practice to credit authors in unobtrusive way_. There are no needs to inform all world on main page with bug letters, that your site use font XXX. Just if someone really interested to know - it's good when he can find such info.
