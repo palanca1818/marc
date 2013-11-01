@@ -10,3 +10,5 @@
 * [[How to suggest font to fontello]]
 * [[How to thank us :)]]
 * [[Problems checklist]]
+
+__We appreciate your efforts to improve help quality__. Feel free to edit articles, fix mistakes and add new questions to cover!
