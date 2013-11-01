@@ -2,9 +2,9 @@
 
 ## What is Fontello
 
-[Fontello](http://fontello.com) is a tool to quickly pack vector images into webfonts. Consider it like [Twitter Bootstrap](http://getbootstrap.com/), but for images. It builds everything nesessary to include graphics into your web pages. Also, fontello has a big built-in collection of opensource artworks.
+[Fontello](http://fontello.com) is a tool to quickly pack vector images into webfonts. Consider it like [Twitter Bootstrap](http://getbootstrap.com/), but for images. It builds everything necessary to include graphics into your web pages. Also, fontello has a big built-in collection of open source artworks.
 
-If you like stories, here is an [article on CSS Tricks](http://css-tricks.com/fontello-past-future-icon-font-service/) how fontello was created.
+If you like stories, here is an [article on CSS Tricks](http://css-tricks.com/fontello-past-future-icon-font-service/) about how fontello was created.
 
 ## Why iconic fonts are cool
 
@@ -18,12 +18,12 @@ __Advantages__
 
 __Limitations__
 
-- The icons will be single-color. There are some fancy (hacky) techniques for multi-color however, and modern trends and HIGs (human interface guidelines) suggest single colors anyway.
+- The icons will be single-color. There are some fancy (hacky) techniques for multi-color; however, modern trends and HIGs (human interface guidelines) suggest single colors anyway.
 
-Look at [nice demo](http://css-tricks.com/examples/IconFont/) what you can do with iconic fonts.
+Look at this [nice demo](http://css-tricks.com/examples/IconFont/) of what you can do with iconic fonts.
 
 
-## Why fontello is opensource and free
+## Why fontello is open source and free
 
 Fontello is a pet-project, sponsored by [RC Design](http://forum.rcdesign.ru/) & [Nodeca](http://nodeca.com/). We do it just because we love programming and doing something interesting.
 
@@ -47,11 +47,11 @@ Since we are sure in fontello's quality, we have no reasons to hide info about a
 - [Fontastic](http://fontastic.me/)
 - [Pictos](http://pictos.cc/server/)
 
-Probably, you can find those more convenient for your needs - no problems. That's a question of taste, we are not jelous :) . However, you should understand, that fontello is much more, than just a usual font creation tool:
+Probably, you can find those more convenient for your needs - no problems. That's a question of taste, we are not jealous :) . However, you should understand, that fontello is much more, than just a usual font creation tool:
 
-1. We not only "take" from opensource community (we use fonts by other authors), but we also "give back" our programming experience and our libraries. For example, see [svg2ttf](https://github.com/fontello/svg2ttf) / [ttf2woff](https://github.com/fontello/ttf2woff) / [ttf2eot](https://github.com/fontello/ttf2eot) / [svgpath](https://github.com/fontello/svgpath) . Also, all fontello code is open.
-2. Very often alternate commercial projects just use artworks of opensourse developpers to promote their paid services, and return nothing back to community. May be, that's ok for iconic fonts creation, but too few in general for moving progress forward. Yes, many opensourse licences allows such use, but...
+1. We not only "take" from open source community (we use fonts by other authors), but we also "give back" our programming experience and our libraries. For example, see [svg2ttf](https://github.com/fontello/svg2ttf) / [ttf2woff](https://github.com/fontello/ttf2woff) / [ttf2eot](https://github.com/fontello/ttf2eot) / [svgpath](https://github.com/fontello/svgpath) . Also, all fontello code is open.
+2. Very often alternate commercial projects just use artworks of open source developers to promote their paid services, and return nothing back to community. Maybe that's ok for iconic fonts creation, but that's not good enough for the future. Yes, many open source licenses allow such use, but...
 3. Since we provide high-quality service free, commercial "competitors" can't take money from you for the same things :)
 4. We don't need to push you create accounts to store your projects. Since we can suggest more effective and safe options: github + [API](https://github.com/fontello/fontello#developers-api) for your [workflow intergation](https://github.com/fontello/fontello/wiki/How-to-save-and-load-projects).
-5. Fontello has much higher technical level, than competitors - we don't optimize it for making money, we optimize it for best quality. For example, we show icons on preview via fonts, while others use SVG kludges like raphael. So, our preview show exactly what you get in final result.
-6. You can participate in development, for fun, for glory and for training skills :) . Fontello is opensource.
+5. Fontello has much higher technical level than competitors - we don't optimize it for making money, we optimize it for best quality. For example, we show icons on preview via fonts, while others use SVG kludges like raphael. So, our preview show exactly what you get in final result.
+6. You can participate in development, for fun, for glory and for training skills :) . Fontello is open source.
