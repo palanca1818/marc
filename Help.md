@@ -6,6 +6,7 @@
 * [[What about license?]]
 * [[Advanced font settings]]
 * [[How to setup server to serve fonts]]
-* [[How to create/suggest my own font]]
+* [[How to create my own font]]
+* [[How to suggest font to fontello]]
 * [[How to thank us :)]]
 * [[Problems checklist]]
