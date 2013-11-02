@@ -37,9 +37,16 @@ Well, we expect, that you listened our advice about storing your whole projects 
 TBD.
 
 
-### ruby way - use fontello_rails_converter gem
+### Ruby way - use fontello_rails_converter gem
 
-https://github.com/railslove/fontello_rails_converter
+When working with Ruby you can install the `fontello_rails_converter` gem, which provides a simple and comfortable command line interface for working with fontello.  After installing the gem you can use the following commands:
+
+* `$> fontello open` will open your current fontello font in the browser right from the command line
+* `$> fontello convert` will download the assets from the current fontello session and convert them for usage in your (Rails) project (it will also do some Sass enhancements to the stylesheets along the way).
+
+The gem is targeted towards usage in a Rails project but does not depend on rails and can be configured to work with any other project (also from other languages).
+
+For more information visit: https://github.com/railslove/fontello_rails_converter
 
 
 ### Geek way - use Makefile
