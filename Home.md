@@ -40,6 +40,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Map Icons http://map-icons.com/
 * Dispicons http://demo.amitjakhu.com/dripicons/
 * Ionicon http://ionicons.com/ (MIT)
+* WebHostingHub Glyphs https://github.com/whhglyphs/webhostinghub-glyphs (SIL)
 
 Unclear (check later)
 
