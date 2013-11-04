@@ -64,3 +64,4 @@ Other:
 * search with good response http://www.freepik.com/free-vectors/icons
 * http://css-tricks.com/flat-icons-icon-fonts/ - renewed collection of SVG images/fonts (all licences, both payed and free)
 * http://iconify.info/ - icon collections links 
+* http://steadysets.com/ - no font or SVG yet, although used in icomoon
