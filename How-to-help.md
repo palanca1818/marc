@@ -1,4 +1,4 @@
-Please note that we are programmers, and don't do artwork. Fontello is our pet project, used to check [nodeca](https://github.com/nodeca/)'s new technologies & components. But we know that designers like fontello. If you wish to improve it, there are several ways.
+Please note that we are programmers and don't do artwork. Fontello is our pet project, used to check [nodeca](https://github.com/nodeca/)'s new technologies & components. But we know that designers like fontello. If you wish to improve it, there are several ways.
 
 
 Share icons to fontelico collection
