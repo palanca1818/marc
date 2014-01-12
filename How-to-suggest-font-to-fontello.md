@@ -10,7 +10,7 @@ _Note for authors_. We currently don't allow the download of separate images in 
 
 ##### Recommended licenses are:
 
-- [SIL](http://scripts.sil.org/OFL) for the font
+- [OFL](http://scripts.sil.org/OFL) for the font
 - [CC BY](http://creativecommons.org/licenses/by/3.0/) or [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) for the images
 
 
