@@ -19,7 +19,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Gcons: http://www.greepit.com/open-source-icons-gcons/ (license?)
 * Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
 * IconFont: http://ux.etao.com/iconfont/
-* Iconic https://github.com/somerandomdude/Iconic (Fonts SIL, Icons CC BY-SA)
+* Iconic https://github.com/somerandomdude/Iconic (OFL, Icons CC BY-SA)
 * Iconify.it http://iconify.it/
 * Ionicon http://ionicons.com/ (MIT)
 * Jigsoar icons: http://www.jigsoaricons.com/
