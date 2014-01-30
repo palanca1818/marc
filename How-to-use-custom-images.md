@@ -41,8 +41,11 @@ TBD.
 
 ### Preparing images in Adobe illustrator
 
-TBD.
+Make sure that you have merged your vectors together into a compound path.  This is done by selecting all the paths in your glyph and using "Object > Compound Path > Make".  If you've already grouped them into a binary group you'll need to expand it first.
 
+Once you have a single compound path you'll do a "File > Save As", select SVG from the drop-down, and hit save.  You'll want to use the default "SVG 1.1" file format.
+
+(Note: there are some issues with preserving the entire artboard - the "Save As" appears to trim the artboard to the shortest dimension.  Haven't found an effective way to remedy this so we're working around it in CSS.)
 
 ## Drawing image from scratch
 
