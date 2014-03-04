@@ -32,7 +32,7 @@ Well, we expect, that you listened our advice about storing your whole projects 
 ### node.js way - use fontello-cli (recommended for non-programmers)
 
 1. Do you already have `node.js`? If not - [install it](http://nodejs.org/)
-2. Install `fontello-cli` utility with `npm install fontello`
+2. Install `fontello-cli` utility with `npm install fontello-cli`
 
 TBD.
 
