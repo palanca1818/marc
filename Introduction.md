@@ -36,7 +36,7 @@ For example, sometime people ask why fontello does not provide user accounts to 
   - Every generated font pack already has config file which can be loaded back into Fontello to continue work. Just drag it (or the whole archive) onto the Fontello site. Or use the API, for [your workwlow integration](https://github.com/fontello/fontello/wiki/How-to-save-and-load-projects). Easy!
   - Use GitHub to store your projects and control changes. That’s much more safe and protects you from mistakes.
 
-Of cause, we are always ready to improve fontello with something awesome. Feel free to share your ideas in our [tracker](https://github.com/fontello/fontello/issues). We consider any ideas, even mad ones :)
+Of course, we are always ready to improve fontello with something awesome. Feel free to share your ideas in our [tracker](https://github.com/fontello/fontello/issues). We consider any ideas, even mad ones :)
 
 
 ## Alternate projects & why fontello is better
