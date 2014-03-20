@@ -37,7 +37,14 @@ If you see, that coutour is missed after import, or have inversed fill:
 
 ### Preparing images in Inskape
 
-TBD.
+You may need to do some additional simplification of your drawing, such converting objects and strokes to paths (see the Path menu), in addition to the below. You can check the svg file output in a text editor - if it has worked correctly, you should see a single <path> element and an empty <defs> element.
+
+1. Select all
+2. Object -> Ungroup
+3. Path -> Union
+4. Path -> Combine paths
+5. File -> Vacuum Defs
+6. Save as -> Plain SVG
 
 ### Preparing images in Adobe illustrator
 
