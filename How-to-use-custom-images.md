@@ -35,7 +35,7 @@ If you see, that coutour is missed after import, or have inversed fill:
 1. Check that SVG coutours were joined prior to import.
 2. Try to reverse direction of missed contours.
 
-### Preparing images in Inskape
+### Preparing images in Inkscape
 
 You may need to do some additional simplification of your drawing, such converting objects and strokes to paths (see the Path menu), in addition to the below. You can check the svg file output in a text editor - if it has worked correctly, you should see a single <path> element and an empty <defs> element.
 
