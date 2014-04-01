@@ -51,7 +51,7 @@ Unclear (check later)
 * Sosa http://www.tenbytwenty.com/sosa.php
 * http://dribbble.com/shots/793795-My-First-Freebie ("don't redistribute"?)
 * http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/ ("don't redistribute"?)
-
+* http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/
 
 Recommend later, when importer ready:
 
