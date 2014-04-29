@@ -10,6 +10,10 @@ Just drag `config.json` or the whole project's `zip` archive to fontello page. O
 
 {{{ Add image here }}}
 
+#### Importing SVG
+
+If you're importing an existing an SVG to ensure your content codes persist through the export of your font, prior to importing navigate to 'Advanced Font Settings' by clicking on the wrench icon and change the default encoding to UNICODE. 
+
 ## Advanced import/export
 
 Every developer should be lazy :) . Lazy developers will say:
