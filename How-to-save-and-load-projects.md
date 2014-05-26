@@ -10,9 +10,13 @@ Just drag `config.json` or the whole project's `zip` archive to fontello page. O
 
 {{{ Add image here }}}
 
-#### Importing SVG
+#### Keep glyph codes, when importing third party SVG fonts
 
-If you're importing an existing an SVG to ensure your content codes persist through the export of your font, prior to importing navigate to 'Advanced Font Settings' by clicking on the wrench icon and change the default encoding to UNICODE. 
+If you're importing an existing SVG font, prepared by third party tools, you may wish to keep existing glyph codes intact. To do it:
+
+1. Go to `Menu -> Advanced Font Settings` and set encoding to `unicode`.
+2. Import your font (as custom icons)
+3. Change encoding back, as described in (1), according to your needs. 
 
 ## Advanced import/export
 
