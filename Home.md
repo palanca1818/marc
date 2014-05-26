@@ -38,7 +38,8 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Windows Icons: https://github.com/Templarian/WindowsIcons
 * WPZoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
 * Zurb https://github.com/zurb/foundation-icons
-* http://dribbble.com/shots/814118-Icons-v-2-Free-download
+* https://dribbble.com/shots/814118-Icons-v-2-Free-download
+* https://dribbble.com/shots/1563947-Free-Icon-Set
 
 Unclear (check later)
 
