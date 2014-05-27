@@ -1,5 +1,6 @@
 * [[Introduction]]
-* [[Tutorial]]
+* [[Tutorial]] - can anyone create video, please?
+* [[How to use fontello fonts in your project]]
 * [[How to save and load projects]]
 * [[How to use custom images]]
 * [[What about license?]]
