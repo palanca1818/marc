@@ -30,7 +30,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * PulsarJS: http://xperiments.es/blog/en/free-pulsarjs-fontface-iconfont/
 * Raphael icons set http://icons.marekventur.de/
 * Retro: http://yourneighbours.de/web-design/free-retro-icon-set/
-* Siconfont http://segundofdez.github.io/siconfont/ licence as OFL - CC BY)
+* Siconfont http://segundofdez.github.io/siconfont/ (licence as OFL - CC BY)
 * SmashMag Freebie http://www.smashingmagazine.com/2011/12/29/freebie-free-vector-web-icons-91-icons/ ([clarified](http://www.smashingmagazine.com/2012/06/18/freebie-academic-icon-set-10-png-psd-icons/#more-130442) licence as CC BY)
 * Victor Erixon icons http://dribbble.com/shots/928458-80-Shades-of-White-Icons
 * Washicons http://lucijanblagonic.github.io/Washicons/
