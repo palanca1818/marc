@@ -42,6 +42,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * https://dribbble.com/shots/814118-Icons-v-2-Free-download
 * https://dribbble.com/shots/1563947-Free-Icon-Set
 * OpenWeb Icons: http://pfefferle.github.io/openwebicons/ (OFL)
+* AppBar: https://github.com/olton/Metro-UI-CSS/
 
 Unclear (check later)
 
