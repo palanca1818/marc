@@ -27,6 +27,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Metrize Icons: http://www.alessioatzeni.com/metrize-icons/
 * Modern Minimal: http://modern.squintongreen.com/
 * OpenWeb: Icons http://pfefferle.github.com/openwebicons/
+* Octicons: http://octicons.github.com/ (OFL)
 * PulsarJS: http://xperiments.es/blog/en/free-pulsarjs-fontface-iconfont/
 * Raphael icons set http://icons.marekventur.de/
 * Retro: http://yourneighbours.de/web-design/free-retro-icon-set/
@@ -54,7 +55,7 @@ Unclear (check later)
 * MimiGlyphs: http://salleedesign.com/resources/mimi-glyphs/ (license?)
 * Sosa http://www.tenbytwenty.com/sosa.php
 * http://dribbble.com/shots/793795-My-First-Freebie ("don't redistribute"?)
-* http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/ ("don't redistribute"?)
+* ~~http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/ ("don't redistribute"?)~~ (link dead)
 * http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/
 
 Recommend later, when importer ready:
