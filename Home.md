@@ -14,6 +14,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Broccolidry: http://dribbble.com/shots/587469-Free-16px-Broccolidryiconsaniconsetitisfullof-icons ([custom](http://licence.visualidiot.com/) licence)
 * Chunky Pika Icon Set: http://www.smashingmagazine.com/2012/11/11/dutch-icon-set-smashing-edition/
 * Climatic icons http://www.adamwhitcroft.com/climacons/
+* Creative Commons Web Fonts https://github.com/cc-icons/cc-icons
 * Dispicons http://demo.amitjakhu.com/dripicons/
 * Eco Ico http://dribbble.com/shots/665585-Eco-Ico
 * Gcons: http://www.greepit.com/open-source-icons-gcons/ (license?)
