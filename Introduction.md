@@ -33,7 +33,7 @@ For example, sometime people ask why fontello does not provide user accounts to 
 
 - Keeping critical user data is a big responsibility. To keep quality of service high, that requires investment and that means running Fontello like a business. Since Fontello is positioned as non-commercial project, we don't want to push it toward being a business.
 - Users don’t need accounts, they need good importing and exporting. This can be achieved in better way:
-  - Every generated font pack already has config file which can be loaded back into Fontello to continue work. Just drag it (or the whole archive) onto the Fontello site. Or use the API, for [your workwlow integration](https://github.com/fontello/fontello/wiki/How-to-save-and-load-projects). Easy!
+  - Every generated font pack already has config file which can be loaded back into Fontello to continue work. Just drag it (or the whole archive) onto the Fontello site. Or use the API, for [your workflow integration](https://github.com/fontello/fontello/wiki/How-to-save-and-load-projects). Easy!
   - Use GitHub to store your projects and control changes. That’s much more safe and protects you from mistakes.
 
 Of course, we are always ready to improve fontello with something awesome. Feel free to share your ideas in our [tracker](https://github.com/fontello/fontello/issues). We consider any ideas, even mad ones :)
