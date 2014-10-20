@@ -27,7 +27,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Map Icons http://map-icons.com/
 * Metrize Icons: http://www.alessioatzeni.com/metrize-icons/
 * Modern Minimal: http://modern.squintongreen.com/
-* OpenWeb: Icons http://pfefferle.github.com/openwebicons/
+* OpenWeb: Icons http://pfefferle.github.com/openwebicons/ (OFL)
 * Octicons: http://octicons.github.com/ (OFL)
 * PulsarJS: http://xperiments.es/blog/en/free-pulsarjs-fontface-iconfont/
 * Raphael icons set http://icons.marekventur.de/
@@ -43,7 +43,6 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Zurb https://github.com/zurb/foundation-icons
 * https://dribbble.com/shots/814118-Icons-v-2-Free-download
 * https://dribbble.com/shots/1563947-Free-Icon-Set
-* OpenWeb Icons: http://pfefferle.github.io/openwebicons/ (OFL)
 * AppBar: https://github.com/olton/Metro-UI-CSS/
 
 Unclear (check later)
