@@ -56,6 +56,8 @@ Once you have a single compound path you'll do a "File > Save As", select SVG fr
 
 (Note2: Illustrator seem to have some problems with the artboard size and Save As... SVG. The solution : create a new perfect square document about 500px, copy and past your artwork, save in SVG. And now, each time you open an SVG file, **the artboard keep the latest artboard dimension.** You could center correctly your artwork in this artboard, and save again )
 
+One trick that may work is to include a rectangle of size 1000x1000 in the Illustrator document, locked with no fill or stroke colour. This will be exported in the SVG, enforcing a minimum size. However, as it's a `rect` rather than a `path`, Fontello will ignore it with a warning message, "Skipped tags and attributes: rect".
+
 ## Drawing image from scratch
 
 1. We recommend to set height to 1000px and crop width to visible part. Though, fontello automatically rescale image from any size, we don't recommend use very small dimensions, because that can affect precision.
