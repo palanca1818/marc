@@ -59,7 +59,7 @@ For more information visit: https://github.com/railslove/fontello_rails_converte
 
 ### Geek way - use Makefile
 
-If you prefer to use `make`, how we do on fontello, here is template, that should be added to you `Makefile`:
+If you prefer to use `make`, how we do on fontello, here is template, that should be added to your `Makefile`:
 
 ``` make
 # Edit here - set path to you directory with config.json & fonts
