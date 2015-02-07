@@ -7,7 +7,9 @@ Fontello generates archive with fonts, css files and docs. Here are recommendati
   - Also, having your own `@font-face` will allow to use [new notation from twitter bootstrap 3+](http://getbootstrap.com/components/#glyphicons) - every icon can be defined with 2 CSS classes.
 3. Don't forget to [[setup proper mime types|How to setup server to serve fonts]] for font file.
 4. If you place fonts on separate domain, make sure, that server responds with proper [[CORS headers|How to setup server to serve fonts]].
-5. In the html for your page add <i class="CLASSNAME"></i> to show the font. CLASSNAME would be something like "icon-search" for your search icon. You can look in the css file to see the names of all of your icons.
+5. In the html for your page add 
+    <i class="CLASSNAME"></i> 
+to show the font. CLASSNAME would be something like "icon-search" for your search icon. You can look in the css file to see the names of all of your icons.
 
 ## Special cases
 
