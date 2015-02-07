@@ -8,7 +8,7 @@ Fontello generates archive with fonts, css files and docs. Here are recommendati
 3. Don't forget to [[setup proper mime types|How to setup server to serve fonts]] for font file.
 4. If you place fonts on separate domain, make sure, that server responds with proper [[CORS headers|How to setup server to serve fonts]].
 5. In the html for your page add 
-    <i class="CLASSNAME"></i> 
+`    <i class="CLASSNAME"></i> `
 to show the font. CLASSNAME would be something like "icon-search" for your search icon. You can look in the css file to see the names of all of your icons.
 
 ## Special cases
