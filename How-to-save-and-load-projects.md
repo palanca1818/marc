@@ -6,9 +6,15 @@ Sometimes you need to modify an existing project - add new glyphs and so on. Eve
 
 ## Simple import
 
-Just drag `config.json` or the whole project's `zip` archive to fontello page. Or via `Settings > Import` menu. That's easy.
+Just drag `config.json` or the whole project's `zip` archive to fontello page. 
 
-{{{ Add image here }}}
+![Animated demo of dragging the config.json into fontello's webpage](https://raw.githubusercontent.com/fontello/fontello/master/support/images/drag-config-json-file.gif)
+
+Or via `Settings > Import` menu.
+
+![Animated demo of fontello's import option](https://raw.githubusercontent.com/fontello/fontello/master/support/images/import-config-json-menu.gif)
+
+That's easy.
 
 #### Keep glyph codes, when importing third party SVG fonts
 
