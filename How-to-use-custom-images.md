@@ -27,6 +27,10 @@ Here are our recommendations:
 2. Remove all FAT lines attributes. Those are not supported, anyway. In fonts, fat line is drown by 2 nested contours.
 3. Join all contours to single outline. That's the last and the most important step. Usually, editors automatically set right contours direction, dependent on nesting and black fill.
 
+## Online solution
+
+You can use this website : https://jakearchibald.github.io/svgomg/
+
 
 __Troubleshooting.__
 
