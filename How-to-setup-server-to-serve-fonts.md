@@ -32,7 +32,7 @@ For CORS headers add:
 
 ## nginx
 
-By default nginx has no default mime types for fonts, and wrong mimy type for `.eot` files. Got to folder with configs and find where mime types are defiled. Usually, that's in `mimes.conf` file.
+By default nginx has no default mime types for fonts, and wrong mime type for `.eot` files. Got to folder with configs and find where mime types are defiled. Usually, that's in `mimes.conf` file.
 
 1. Search `.eot` and string with it.
 2. Add strings below.
