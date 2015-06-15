@@ -10,7 +10,7 @@ Usually, other vector formats can be converted to SVG.
 
 ## Importing font
 
-If your font is on TTF / OTF / WOFF format, use [FontForge](http://fontforge.org) or something like this to convert font to SVG format. In FontForge do the following:
+If your font is in TTF / OTF / WOFF format, use [FontForge](http://fontforge.org) or something like this to convert font to SVG format. In FontForge do the following:
 
 1. Open your font via `File > Open` menu.
 2. Then, in `File > Create fonts...` menu select `SVG` format and save file.
@@ -19,13 +19,13 @@ If your font is on TTF / OTF / WOFF format, use [FontForge](http://fontforge.org
 
 ## Importing SVG images
 
-You should understand, that SVG format is more rich, that can be supported by fonts. Though we try to automate importing process, sometime it's more safe to prepare image in editor for exact result.
+You should understand that font formats do not support all of the features that the SVG format provides. Though we try to automate the import process, sometimes it's necessary to make adjustments to artwork in order to achieve the desired result.
 
 Here are our recommendations:
 
-1. Remove all fills and colors. In fonts fill is defined by contour direction. Probably you can leave black fills. Make sure, you don't have complex rules like `evenodd` fills.
-2. Remove all FAT lines attributes. Those are not supported, anyway. In fonts, fat line is drown by 2 nested contours.
-3. Join all contours to single outline. That's the last and the most important step. Usually, editors automatically set right contours direction, dependent on nesting and black fill.
+1. Remove all fills and colors. You can probably leave black fills. In fonts, fill is defined by contour direction.  Make sure that you don't have any complex rules like `evenodd` fills.
+2. Remove all FAT line attributes. This is not supported by Fontello. In fonts, fat lines are drown by 2 nested contours.
+3. Join all contours to a single outline. This is the last and the most important step. Usually editors automatically set the correct contour direction depending on nesting and black fills.
 
 ## Online solution
 
