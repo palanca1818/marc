@@ -21,7 +21,7 @@ If you have problem with icons on your website, please check in different browse
 2. __No icons in Firefox__
   - if your font and html page are placed on different domains, server must respond with proper CORS headers. Read [[How to setup server to serve fonts]] article. If you can't change server configuration - use CSS file, where fonts are embedded directly. It's already included in generated archive.
 3. __No icons (or some icons) on specific browsers/platforms__
-  - If you used 3-bytes char codes (like 0x1F459), try to change them to 2-bytes from PUA area (0xE000-0xFFFE).
+  - If you used 3-bytes char codes (like 0x1F459), try to change them to 2-bytes from PUA area (0xE000-0xF8FF).
   - If that doesn't help, create a ticket in issue tracker, with detailed info:
     - device name
     - operating system and version
