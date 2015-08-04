@@ -24,6 +24,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Iconify.it http://iconify.it/
 * Ionicon http://ionicons.com/ (MIT)
 * Jigsoar icons: http://www.jigsoaricons.com/
+* Linea: http://linea.io/ (CC BY 4.0 license)
 * Map Icons http://map-icons.com/
 * Metrize Icons: http://www.alessioatzeni.com/metrize-icons/
 * Modern Minimal: http://modern.squintongreen.com/
