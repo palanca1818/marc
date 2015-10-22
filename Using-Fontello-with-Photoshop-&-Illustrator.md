@@ -16,4 +16,4 @@ Your font will downloaded in a .zip format, locate that file and open it. Inside
 Step 5 - "Usage"
 Load up Photoshop or Illustrator and create a new canvas. Simply use the Type Tool > Choose your font > Use associated values in **Customize Codes** tab or if you entered in your own custom values use those and your icons should start appearing.
 
-In those 5 steps you should be off an running using Fontello in your design work. 
+In those 5 steps you should be off and running using Fontello in your design work. 
