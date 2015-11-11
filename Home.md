@@ -17,6 +17,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Creative Commons Web Fonts https://github.com/cc-icons/cc-icons
 * Dispicons http://demo.amitjakhu.com/dripicons/
 * Eco Ico http://dribbble.com/shots/665585-Eco-Ico
+* Ggame Icons http://game-icons.net/
 * Gcons: http://www.greepit.com/open-source-icons-gcons/ (license?)
 * Heydings (~60 icons only) http://www.heydonworks.com/article/a-free-icon-web-font
 * IconFont: http://ux.etao.com/iconfont/
@@ -58,12 +59,7 @@ Unclear (check later)
 * MimiGlyphs: http://salleedesign.com/resources/mimi-glyphs/ (license?)
 * Sosa http://www.tenbytwenty.com/sosa.php
 * http://dribbble.com/shots/793795-My-First-Freebie ("don't redistribute"?)
-* ~~http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/ ("don't redistribute"?)~~ (link dead)
 * http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/
-
-Recommend later, when importer ready:
-
-* http://game-icons.net/ - CC BY
 
 
 Other:
