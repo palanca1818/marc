@@ -46,8 +46,8 @@ You may need to do some additional simplification of your drawing, such converti
 1. Select all
 2. Object -> Ungroup
 3. Path -> Union
-4. Path -> Combine paths
-5. File -> Vacuum Defs
+4. Path -> Combine
+5. File -> Vacuum Defs (or Clean up document)
 6. Save as -> Plain SVG
 
 ### Preparing images in Adobe illustrator
