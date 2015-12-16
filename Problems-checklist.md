@@ -16,7 +16,7 @@ If you have problem with icons on your website, please check in different browse
 
 ## Usual cases
 
-1. __No iconst at all__
+1. __No icons at all__
   - Probably, you have wrong fonts paths in CSS. Open browser dev tool and look at networking tab.
 2. __No icons in Firefox__
   - if your font and html page are placed on different domains, server must respond with proper CORS headers. Read [[How to setup server to serve fonts]] article. If you can't change server configuration - use CSS file, where fonts are embedded directly. It's already included in generated archive.
