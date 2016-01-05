@@ -46,10 +46,10 @@ Well, we expect, that you listened our advice about storing your whole projects 
 ### node.js way - use fontello-cli (recommended for non-programmers)
 
 1. Do you already have `node.js`? If not - [install it](http://nodejs.org/)
-2. Install `fontello-cli` utility with `npm install fontello-cli`
+2. Install `fontello-cli` command line utility with `npm install fontello-cli -g` (or locally as a dev dependency)
+3. Run `fontello-cli --config ./path/to/config.json install` or `fontello-cli --config ./path/to/config.json open`
 
-TBD.
-
+This way `fontello-cli` will either install and extract the package or open the fontello.com webpage with preloaded configuration. Please note there are much more options that can be passed to `fontello-cli` and can be used to customize the build workflow much further. You can read the manual by invoking `fontello-cli --help`
 
 ### Ruby way - use fontello_rails_converter gem
 
