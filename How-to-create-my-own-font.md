@@ -1,6 +1,6 @@
 [back to help index](Help)
 
-If you wish to create font with your own artworks - you can use fontello to to simplify process.The only thing you need to do - prepare images in SVG format. Please, read [[How to use custom images]] for details about importing.
+If you wish to create font with your own artworks - you can use fontello to simplify process.The only thing you need to do - prepare images in SVG format. Please, read [[How to use custom images]] for details about importing.
 
 The whole process is:
 
