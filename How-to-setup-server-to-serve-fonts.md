@@ -18,6 +18,7 @@ To set right mime-types for font files, add this lines to config:
 AddType application/vnd.ms-fontobject    .eot
 AddType application/x-font-ttf           .ttf
 AddType application/font-woff            .woff
+AddType application/font-woff2           .woff2
 ```
 
 If you can't edit config, create `.htaccess` file in folder with your project and add lines there.
@@ -25,7 +26,7 @@ If you can't edit config, create `.htaccess` file in folder with your project an
 For CORS headers add:
 
 ```
-<FilesMatch ".(eot|ttf|otf|woff)">
+<FilesMatch ".(eot|ttf|otf|woff|woff2)">
   Header set Access-Control-Allow-Origin "*"
 </FilesMatch>
 ```
@@ -41,12 +42,13 @@ By default nginx has no default mime types for fonts, and wrong mime type for `.
 application/vnd.ms-fontobject    eot;
 application/x-font-ttf           ttf;
 application/font-woff            woff;
+application/font-woff2           woff2;
 ```
 
 For CORS headers, add something like this to your vhost config
 
 ```
-location ~* \.(eot|ttf|woff)$ {
+location ~* \.(eot|otf|ttf|woff|woff2)$ {
     add_header Access-Control-Allow-Origin *;
 }
 ```
