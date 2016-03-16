@@ -15,10 +15,10 @@ Probably, your server is already configured, and you don't need to change anythi
 To set right mime-types for font files, add this lines to config:
 
 ```
-AddType application/vnd.ms-fontobject    .eot
-AddType application/x-font-ttf           .ttf
-AddType application/font-woff            .woff
-AddType application/font-woff2           .woff2
+AddType application/font-sfnt            otf ttf
+AddType application/font-woff            woff
+AddType application/font-woff2           woff2
+AddType application/vnd.ms-fontobject    eot
 ```
 
 If you can't edit config, create `.htaccess` file in folder with your project and add lines there.
@@ -39,10 +39,10 @@ By default nginx has no default mime types for fonts, and wrong mime type for `.
 2. Add strings below.
 
 ```
-application/vnd.ms-fontobject    eot;
-application/x-font-ttf           ttf;
+application/font-sfnt            otf ttf;
 application/font-woff            woff;
 application/font-woff2           woff2;
+application/vnd.ms-fontobject    eot;
 ```
 
 For CORS headers, add something like this to your vhost config
