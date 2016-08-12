@@ -28,6 +28,7 @@ All this collections are distributed under CC-like licenses, without strong attr
 * Linea: http://linea.io/ (CC BY 4.0 license)
 * Map Icons http://map-icons.com/
 * Metrize Icons: http://www.alessioatzeni.com/metrize-icons/
+* MFizz: http://fizzed.com/oss/font-mfizz (MIT)
 * Modern Minimal: http://modern.squintongreen.com/
 * OpenWeb: Icons http://pfefferle.github.com/openwebicons/ (OFL)
 * Octicons: http://octicons.github.com/ (OFL)
