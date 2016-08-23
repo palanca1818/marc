@@ -15,7 +15,8 @@ Probably, your server is already configured, and you don't need to change anythi
 To set right mime-types for font files, add this lines to config:
 
 ```
-AddType application/font-sfnt            otf ttf
+AddType application/x-font-ttf           ttc ttf
+AddType application/x-font-otf           otf
 AddType application/font-woff            woff
 AddType application/font-woff2           woff2
 AddType application/vnd.ms-fontobject    eot
@@ -39,7 +40,8 @@ By default nginx has no default mime types for fonts, and wrong mime type for `.
 2. Add strings below.
 
 ```
-application/font-sfnt            otf ttf;
+application/x-font-ttf           ttc ttf;
+application/x-font-otf           otf;
 application/font-woff            woff;
 application/font-woff2           woff2;
 application/vnd.ms-fontobject    eot;
