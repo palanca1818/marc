@@ -6,6 +6,7 @@ Probably, your server is already configured, and you don't need to change anythi
 
 1. Correct mime-type headers
 2. [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) headers - only if you serve fonts files & html pages from different domains
+3. For IE, check that your http headers for the font files do not have no-store or no-cache
 
 (*) If you can't set CORS headers, you can embed font files directly into CSS. Appropriate CSS file already exists in fontello archive.
 
