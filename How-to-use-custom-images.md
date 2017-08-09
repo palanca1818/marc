@@ -48,7 +48,8 @@ You may need to do some additional simplification of your drawing, such converti
 3. Path -> Union
 4. Path -> Combine
 5. File -> Vacuum Defs (or Clean up document)
-6. Save as -> Plain SVG
+6. Set the document to use PX units
+7. Save as -> Plain SVG
 
 ### Preparing images in Adobe illustrator
 
