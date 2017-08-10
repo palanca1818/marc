@@ -44,12 +44,13 @@ If you see, that contour is missed after import, or have inversed fill:
 You may need to do some additional simplification of your drawing, such converting objects and strokes to paths (see the Path menu), in addition to the below. You can check the svg file output in a text editor - if it has worked correctly, you should see a single `<path>` element and an empty `<defs>` element.
 
 1. Select all
-2. Object -> Ungroup
-3. Path -> Union
-4. Path -> Combine
-5. File -> Vacuum Defs (or Clean up document)
-6. Set the document to use PX units
-7. Save as -> Plain SVG
+2. Document Properties -> Resize page to drawing or selection
+3. Object -> Ungroup
+4. Path -> Union
+5. Path -> Combine
+6. File -> Vacuum Defs (or Clean up document)
+7. Set the document to use PX units
+8. Save as -> Plain SVG
 
 ### Preparing images in Adobe illustrator
 
