@@ -12,4 +12,4 @@ The whole process is:
 6. Go to `Settings > Advanced` menu and fill development info.
 7. Download your font.
 
-If you wish yout font to be included to fontello collection, read [[How to suggest font to fontello]].
+If you wish your font to be included to fontello collection, read [[How to suggest font to fontello]].
