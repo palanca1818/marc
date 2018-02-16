@@ -1,3 +1,5 @@
+[back to help index](Help)
+
 Fontello generates archive with fonts, css files and docs. Here are recommendation, how to use one in your project to show icons.
 
 ## Recommended way
