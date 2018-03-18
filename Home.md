@@ -6,7 +6,7 @@
 More vector sources
 -------------------
 
-All this collections are distributed under CC-like licenses, without strong attribution requirements (not needed or link on "about" page is enougth). Please, DON'T put here icons, which require linking on visible place and so on - those will not be accepted to fontello. If you are not sure about license - queue your link to "unknown" list at the end of page.
+All collections listed here are distributed under CC-like licenses, and have no strong attribution requirements: attribution is either not needed, or a link on your "about" page is enough. Please, DON'T add collections here which require attribution via linking on a visible place - those will not be accepted by fontello. If you are not sure about the license requirements, add your link to the "Unclear" section at the end of the page.
 
 * 105 loops: http://dribbble.com/shots/707117-105-Loops-with-PSD
 * Batch: https://github.com/AdamWhitcroft/Batch
