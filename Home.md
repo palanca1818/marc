@@ -8,6 +8,7 @@ More vector sources
 
 All collections listed here are distributed under CC-like licenses, and have no strong attribution requirements: attribution is either not needed, or a link on your "about" page is enough. Please, DON'T add collections here which require attribution via linking on a visible place - those will not be accepted by fontello. If you are not sure about the license requirements, add your link to the "Unclear" section at the end of the page.
 
+* Themify : https://themify.me/themify-icons
 * 105 loops: http://dribbble.com/shots/707117-105-Loops-with-PSD
 * Batch: https://github.com/AdamWhitcroft/Batch
 * Breeze http://breezi.com/blog/free-minimalist-icon-set/
