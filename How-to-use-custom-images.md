@@ -56,6 +56,8 @@ You may need to do some additional simplification of your drawing, such converti
 
 Make sure that you have merged your vectors together into a compound path.  This is done by selecting all the paths in your glyph and using "Object > Compound Path > Make".  If you've already grouped them into a binary group you'll need to expand it first.
 
+If you have any stroke properties in your vectors, you'll notice they went away after using "Object > Compound Path > Make". To prevent this, select all relevant glyphs and outline their strokes but using "Object > Path > Outline Stroke" before compounding paths.
+
 Once you have a single compound path you'll do a "File > Save As", select SVG from the drop-down, and hit save.  You'll want to use the default "SVG 1.1" file format.
 
 (Note: there are some issues with preserving the entire artboard - the "Save As" appears to trim the artboard to the shortest dimension.  Haven't found an effective way to remedy this so we're working around it in CSS.)
